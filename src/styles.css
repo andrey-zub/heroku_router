@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.horizLine {
+  background: linear-gradient(
+    rgb(255, 255, 255),
+    rgba(80, 80, 80, 0.6),
+    rgb(255, 255, 255)
+  );
+  height: 10px;
+}
+
+.header {
+  background: #orange;
+}
